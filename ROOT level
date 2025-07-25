@@ -1,0 +1,10 @@
+ROOT LEVEL — Core Domains 
+
+Embedded Systems for Aerospace & Defense
+│
+├── 1. UAVs & Drones (Recon, Loitering, Swarm)
+├── 2. Missile Systems (Guidance, Control, Fuze)
+├── 3. Radar & RF Systems (EW, Jammers, Surveillance)
+├── 4. Satellite & Spacecraft Systems (LEO, Comms, ISR)
+├── 5. Armoured Vehicles (Tanks, FICVs, UAV Launchers)
+├── 6. Ground Control Stations & Telemetry
