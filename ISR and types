@@ -1,0 +1,80 @@
+Types of ISR Systems
+🔹 1. Aerial ISR (Airborne Platforms)
+Used for wide-area surveillance, real-time visual/signal intelligence.
+| Type                    | Description                          | Examples                            |
+| ----------------------- | ------------------------------------ | ----------------------------------- |
+| **Manned ISR Aircraft** | Piloted aircraft with ISR sensors    | U-2 Dragon Lady, RC-135 Rivet Joint |
+| **HALE UAVs**           | High-altitude drones, long endurance | RQ-4 Global Hawk, CH-5              |
+| **MALE UAVs**           | Medium-altitude, used tactically     | MQ-9 Reaper, Heron, Bayraktar TB2   |
+| **Tactical UAVs**       | Battlefield recon by small drones    | RQ-7 Shadow, Orbiter, SWITCH UAV    |
+| **Nano / Micro UAVs**   | Personal ISR tools for infantry      | Black Hornet Nano, Netra V4         |
+
+2.Space-Based ISR
+Used for strategic, global surveillance without airspace restrictions.
+
+| Type                           | Description                         | Examples                          |
+| ------------------------------ | ----------------------------------- | --------------------------------- |
+| **Optical Imaging Satellites** | Visual monitoring of targets        | KH-11, CARTOSAT, Gaofen           |
+| **Radar Imaging Satellites**   | All-weather SAR imaging             | RISAT series (India), Sentinel-1  |
+| **SIGINT Satellites**          | Intercepting enemy signals globally | NROL series (USA), Yaogan (China) |
+
+3. Maritime / Naval ISR
+For maritime surveillance, submarine tracking, anti-piracy, and naval dominance.
+
+| Type                                   | Description                            | Examples                        |
+| -------------------------------------- | -------------------------------------- | ------------------------------- |
+| **Maritime Patrol Aircraft**           | Manned aircraft with EO/IR, radar      | P-8I Poseidon, Boeing P-3 Orion |
+| **Naval UAVs**                         | Ship-launched or deck-based ISR drones | ScanEagle, MQ-8 Fire Scout      |
+| **Autonomous Surface Vehicles (USVs)** | Unmanned boats with ISR sensors        | Sea Hunter (DARPA)              |
+| **Underwater ISR Vehicles (UUVs)**     | Submerged drones for stealthy ISR      | Knifefish, REMUS, DRDO AUVs     |
+
+4.  Ground-Based ISR
+Deployed for border surveillance, battlefield intelligence, and perimeter monitoring
+
+| Type                                    | Description                           | Examples                         |
+| --------------------------------------- | ------------------------------------- | -------------------------------- |
+| **Ground Radar ISR**                    | Tracks movements, especially vehicles | BFSR-SR (India), Giraffe AMB     |
+| **Signal Intelligence (SIGINT) Trucks** | Intercepts RF signals from ground     | India's Samyukta system          |
+| **Acoustic/Seismic Sensors**            | Detect foot/machine movements         | Border sensor networks           |
+| **Fixed Surveillance Towers**           | EO/IR + radar on towers               | Indo-Pak LOC surveillance towers |
+
+5.  Cyber & Electronic ISR
+Non-physical domain. Captures digital, communication, or radar emissions.
+
+| Type                            | Description                                 | Examples                               |
+| ------------------------------- | ------------------------------------------- | -------------------------------------- |
+| **COMINT**                      | Communication Intelligence – radio, calls   | Drone-based or SIGINT aircraft         |
+| **ELINT**                       | Radar/missile system tracking via emissions | Jamming/targeting radars               |
+| **Cyber ISR**                   | Digital surveillance, network penetration   | Cyber warfare units, malware-based ISR |
+| **Electronic Warfare (EW) ISR** | Spectrum dominance + signal interception    | Jammer drones, SIGINT UAVs             |
+
+6. Swarm ISR
+Coordinated small UAVs acting as a distributed ISR mesh.
+
+
+| Type                      | Description                               | Examples                           |
+| ------------------------- | ----------------------------------------- | ---------------------------------- |
+| **Drone Swarms**          | Multiple autonomous drones share ISR data | ALFA-S (India), Perdix Swarm (USA) |
+| **Self-healing ISR Nets** | Replaceable units, dynamic routing        | AI-coordinated ISR swarms          |
+
+7. Persistent ISR
+Constant surveillance of a region using long-endurance platforms.
+
+
+| Type                                       | Description                          | Examples                                              |
+| ------------------------------------------ | ------------------------------------ | ----------------------------------------------------- |
+| **HAPS (High Altitude Pseudo Satellites)** | Solar UAVs or balloons at 65,000+ ft | Airbus Zephyr, HAWK30                                 |
+| **Aerostats / Tethered Balloons**          | Long-duration ISR from fixed point   | JLENS (USA), Indian Tethered Aerostats                |
+| **Surveillance Balloons**                  | Stratospheric ISR payloads           | Used in USA, China, India for border/missile tracking |
+
+8. Multi-Domain ISR
+Fusion of ISR inputs from various domains (land, air, sea, space, cyber).
+
+| Type                            | Description                                       | Examples                                        |
+| ------------------------------- | ------------------------------------------------- | ----------------------------------------------- |
+| **Network-Centric ISR Systems** | Unified ISR system sharing live feeds             | India’s AFNet, NATO AGS, US ISR Tasking Systems |
+| **Sensor Fusion Systems**       | Combining radar, EO/IR, SIGINT for full picture   | Fused Command Centers                           |
+| **Mobile C4ISR Units**          | Command posts on wheels with live ISR integration | India's Akashteer, US Army DCGS-A               |
+
+
+
